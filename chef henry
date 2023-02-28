@@ -1,0 +1,121 @@
+<!DOCTYPE HTML PUBLIC"-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+
+<head>
+    <title>Email Signature</title>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+</head>
+
+<body>
+    <table style="width: 430px; font-size:9pt; font-family: Arial,sans-serif;" cellpadding="0" cellspacing="0">
+        <tbody>
+            <tr>
+                <td style="width:86px; vertical-align:top;" valign="top">
+                    <a href="https://thecookingschooluganda.com/" style="text-decoration: none;" target="_blank">
+                        <img border="0" alt="Logo" height="86" width="100" style="width:150px; height:86px; border:0;"
+                            src="https://thecookingschooluganda.com/wp-content/uploads/2022/08/The-Culinary-School-LOGO.png">
+                    </a>
+                </td>
+                <td style="width:44px; ; text-align:center; vertical-align:top;" valign="top">
+                    <img border="0" alt="Logo" width="13" style="width:1px; height:86px; border:0;"
+                        src="https://thecookingschooluganda.com/wp-content/uploads/2022/08/The-Culinary-School-LOGO.png">
+                </td>
+                <td style="width:300px; vertical-align:top;" valign="top">
+                    <table style="border-collapse: collapse;" cellpadding="0" cellspacing="0">
+                        <tbody>
+                            <tr>
+                                <td
+                                    style="font-size:10pt; font-family:Arial,sans-serif; font-weight: bold; color:#3c3c3b; padding-bottom:5px; line-height:16px;">
+                                    <!-- EDIT THE NAME --> CHEF HENRY WANYAMA
+                                </td>
+                            </tr>
+                            <tr>
+                                <td
+                                    style="font-size:10pt; font-family: Arial,sans-serif; font-weight: bold; color:#3c3c3b; padding-bottom:5px; line-height:16px;">
+                                    <!-- EDIT THE ROLE --> EXECUTIVE DIRECTOR
+                                </td>
+                            </tr>
+                            <tr>
+                                <td
+                                    style="font-size:9pt; font-family:Arial,sans-serif; color:#3c3c3b; padding-bottom:1px; line-height:14px;">
+                                    <!-- EDIT THESE PHONE NUMBERS -->
+                                    <span style="font-weight:bold;">T: </span>
+                                    <a href="tel:+2567888404063"
+                                        style="text-decoration: none; color: #2E3192">+2567888404063</a> | <span
+                                        style="font-weight:bold;">M: </span>
+                                    <a href="tel:+2567888404063"
+                                        style="text-decoration: none; color: #2E3192">+256757404062</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td
+                                    style="font-size:9pt; font-family:Arial,sans-serif; color:#3c3c3b; padding-bottom:1px; line-height:14px;">
+                                    <span style="font-weight:bold;">PROFILE</span>
+                                    <!-- EDIT THE EMAIL -->
+                                    <a href="https://bit.ly/TCSU-PROFILE"
+                                        style="text-decoration: none; color:#2E3192;">https://bit.ly/TCSU-PROFILE</a>
+                                    <!-- | <span
+                                        style="font-weight:bold;">W: </span>
+                                    <a href="https://thecookingschooluganda.com/" target="_blank"
+                                        style="color:#2E3192; text-decoration: none; "> www.theculinaryschooluganda.com </a> -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td
+                                    style="font-size:9pt; font-family:Arial,sans-serif; color:#3c3c3b; padding-bottom:1px; line-height:14px;">
+                                    <a href="https://www.google.com/maps/place/The+Culinary+School+Uganda/@0.3596945,32.6065306,17z/data=!3m1!4b1!4m5!3m4!1s0x177dba3fe459f9f5:0xfe1e9c5195671922!8m2!3d0.3596712!4d32.6087746?coh=164777&entry=tt"
+                                        target="_blank" style="text-decoration: none; color: #2E3192;">Ntinda, Opposite
+                                        Kigowa Road</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="padding-top:10px; vertical-align: bottom;">
+                                    <span style="display:inline-block; height:22px;">
+                                        <span>
+                                            <a href="https://www.facebook.com/thechefhenry" target="_blank"
+                                                style="text-decoration: none;">
+                                                <img alt="Facebook icon" border="0" width="20" height="20"
+                                                    style="border:0; height:20px; width:20px"
+                                                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/100px-Facebook_f_logo_%282019%29.svg.png">
+                                                <!-- </a>&nbsp;</span><span><a href="https://www.linkedin.com/company/n-h-o-p/" target="_blank"
+                                                style="text-decoration: none;"><img alt="LinkedIn icon" border="0" width="20" height="20"
+                                                    style="border:0; height:20px; width:20px"
+                                                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"> -->
+                                            </a>&nbsp; </span>
+                                        <span>
+                                            <a href="https://twitter.com/thechefhenry" target="_blank"
+                                                style="text-decoration: none;">
+                                                <img alt="Twitter icon" border="0" width="20" height="20"
+                                                    style="border:0; height:20px; width:20px"
+                                                    src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg">
+                                            </a>&nbsp; </span>
+                                        <span>
+                                            <a href="https://www.instagram.com/thechefhenry/" target="_blank"
+                                                style="text-decoration: none;">
+                                                <img alt="Instagram icon" border="0" width="20" height="20"
+                                                    style="border:0; height:20px; width:20px"
+                                                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png">
+                                            </a>&nbsp; </span>
+                                        <span>
+                                            <!-- EDIT THE PHONE NUMBER AND LINK TO POINT TO A PERSONS NUMBER -->
+                                            <a href="https://api.whatsapp.com/send?phone=256757404062&text=Hello%20and%20welcome%20to%20The%20Culinary%20School%20Uganda.%20We%27re%20excited%20to%20connect%20with%20you%20on%20WhatsApp%20and%20provide%20you%20with%20the%20latest%20updates%2C%20offers%2C%20and%20support.%20If%20you%20have%20any%20questions%20or%20concerns%2C%20don%27t%20hesitate%20to%20reach%20out%20to%20us."
+                                                target="_blank">
+                                                <img alt="Whatsapp icon" border="0" width="20" height="20"
+                                                    style="border:0; height:20px; width:20px"
+                                                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/598px-WhatsApp.svg.png">
+                                            </a>
+                                        </span>
+                                    </span>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            <!-- <tr><td style="width:430px; padding-top:16px;" colspan="3" width="430"><a href="https://thecookingschooluganda.com/" target="_blank" rel="noopener"><img border="0" src="https://i.imgur.com/FF2zqQd.jpg" alt="Banner" width="430"
+                            style="width:430px; height:auto; border:0;"></a></td></tr> -->
+        </tbody>
+    </table>
+</body>
+
+</html>
